@@ -53,21 +53,21 @@
 
 ## 🌍 在线预览地址
 
-- 🔗 **EO Pages 页面**：[https://bing.liushen.fun/](https://bing.liushen.fun/)
+- 🔗 **EO Pages 页面**：[https://bing.biuxin.com/](https://bing.biuxin.com/)
 
 ---
 
 ## 🛺 使用方式
 
 1. **随机图 API**：
-   - 访问 `https://bing.liushen.fun/api/random` 获取随机壁纸。
-   - 可在网页中直接使用，如：`<img src="https://bing.liushen.fun/api/random" alt="随机壁纸" />`。
+   - 访问 `https://bing.biuxin.com/api/random` 获取随机壁纸。
+   - 可在网页中直接使用，如：`<img src="https://bing.biuxin.com/api/random" alt="随机壁纸" />`。
 
 2. **每日一图 API**：
-   - 访问 `https://bing.liushen.fun/api/daily` 或者 `https://bing.liushen.fun/daily.webp` 获取今日壁纸。
+   - 访问 `https://bing.biuxin.com/api/daily` 或者 `https://bing.biuxin.com/daily.webp` 获取今日壁纸。
    - 可在网页中直接使用，如：`<img src="https://bing.liushen.fun/api/daily" alt="今日壁纸" />`。
 
-更多参数欢迎访问地址：[https://bing.liushen.fun/api](https://bing.liushen.fun/api) 进行查询。
+更多参数欢迎访问地址：[https://bing.biuxin.com/api](https://bing.biuxin.com/api) 进行查询。
 
 ## 📜 License
 
